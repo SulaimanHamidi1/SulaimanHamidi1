@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sulaiman Hamidi</h1>
-<h3 align="center">CS Master's student building things at the intersection of software engineering & data science</h3>
+<h3 align="center">CS Master's student shipping production software — from secure backend systems to full-stack web apps</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/sulaiman-hamidi-6b8bb0340"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
