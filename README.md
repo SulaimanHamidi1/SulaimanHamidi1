@@ -11,7 +11,7 @@
 ### 🚀 About Me
 
 - 🎓 M.S. in Computer Science @ **George Mason University** (GPA 3.90/4.00)
-- 💼 Currently **Lead Software Engineer Intern** @ A Better Way, Inc. — leading 12 interns through Agile sprints & CI/CD
+- 💼 Previously **Lead Software Engineer Intern** @ A Better Way, Inc. — leading 12 interns through Agile sprints & CI/CD
 - 📊 Previously **Data Science Intern** @ City of Virginia Beach — built predictive models on real-time sensor data
 - 🧑‍🏫 **Teaching Assistant** for Data Structures & Algorithms @ GMU — mentoring 20+ students weekly
 - 🧠 Interested in full-stack development, secure systems, and AI-driven analytics
