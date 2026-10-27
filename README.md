@@ -72,17 +72,6 @@ Paste any Python (including LeetCode solutions) and watch it run step by step as
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SulaimanHamidi1&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulaimanHamidi1&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SulaimanHamidi1&hide_border=true" />
-</p>
-
 ---
 
 ### 🌱 What I'm Working On
