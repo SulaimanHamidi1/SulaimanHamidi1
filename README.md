@@ -147,34 +147,6 @@ An interactive code execution visualizer that turns Python programs into step-by
 
 ---
 
-### 💼 Engineering Experience
-
-**Lead Software Engineer Intern — A Better Way, Inc.**
-*Jan 2026 – Apr 2026*
-
-- Led 12 developers through Agile sprints, code reviews, and Git-based collaboration.
-- Developed 20+ REST API endpoints using Java and Spring Boot.
-- Implemented JWT authentication, RBAC, and secure API access with Spring Security.
-- Designed MySQL schemas and integrated Spring Data JPA for data persistence.
-- Established CI workflows, automated testing, and team development standards.
-
-**Data Science Intern — City of Virginia Beach**
-*May 2026 – Aug 2026*
-
-- Built SQL-based data processing workflows using Snowflake and relational databases.
-- Developed Power BI dashboards for executive operational reporting.
-- Consolidated data from multiple systems into consistent analytical datasets.
-- Automated recurring reports, reducing manual reporting effort by approximately 90%.
-
-**Teaching Assistant — George Mason University**
-*Aug 2025 – Apr 2026*
-
-- Mentored 20+ students weekly in Java, data structures, and algorithm design.
-- Developed 100+ JUnit test cases to validate student implementations.
-- Assisted with debugging, code quality, recursion, trees, graphs, and hash tables.
-
----
-
 ### 🌱 Currently Exploring
 
 - **Developer Tools:** Improving PyVisualizer's execution engine and data structure animations.
